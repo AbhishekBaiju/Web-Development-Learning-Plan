@@ -1,6 +1,6 @@
 # 30-Day Web Development Learning Plan
 
-This is a comprehensive 30-day study plan for learning PHP, SQL, Laravel, Vue.js, and JavaScript. The plan is designed to cover the basics and provide hands-on projects to reinforce your learning.
+This comprehensive 30-day study plan is for learning PHP, SQL, Laravel, Vue.js, and JavaScript. The plan is designed to cover the basics and provide hands-on projects to reinforce your learning.
 
 ## Week 1-2: PHP and SQL
 
@@ -52,13 +52,5 @@ This is a comprehensive 30-day study plan for learning PHP, SQL, Laravel, Vue.js
    - Build a simple blog using Laravel where users can create, edit, and delete posts. Implement basic authentication for users.
 
 3. **Week 4 Project: Task Management System with Vue.js**
-   - Develop a task management system using Laravel for the backend and Vue.js for the frontend. Users should be able to add, edit, and delete tasks with real-time updates.
+   - Develop a task management system using Laravel for the backend and Vue.js for the front end. Users should be able to add, edit, and delete tasks with real-time updates.
 
-## Instructions:
-
-- Follow the daily schedule and allocate time for both theory and practical coding.
-- Use online resources, tutorials, and documentation for reference.
-- Join developer communities for support and collaboration.
-- Adjust the plan based on your progress and focus on hands-on coding.
-
-Good luck on your learning journey!
